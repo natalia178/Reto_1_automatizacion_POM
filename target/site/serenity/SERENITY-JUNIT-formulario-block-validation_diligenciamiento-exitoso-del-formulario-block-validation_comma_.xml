@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Formulario Block Validation" skipped="0" tests="1" time="15.27" timestamp="2020-05-25T16:04:09.904-05:00[America/Bogota]"><testcase name="Diligenciamiento exitoso del formulario Block Validation,"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.choucair.formacion.steps.ColorlibBlockValidationSteps.diligenciar_popup_datos_tabla(ColorlibBlockValidationSteps.java:15)&#13;
+com.choucair.formacion.definition.BlockValidationDefinition.diligencio_Formulario_Block_Validation(BlockValidationDefinition.java:38)&#13;
+✽.When Diligencio Formulario Block Validation(src/test/resources/features/Colorlib/Forms/BlockValidation.feature:31)&#13;
+</system-err></testcase></testsuite>
